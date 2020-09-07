@@ -1,4 +1,5 @@
-# Collaborative-Filtering-Covariance-Matrix
+# Sistem preporuka zasnovan na uzajamnom filtriranju koristeći matricu kovarijansi
 
-Vladana Đorđevic
-Tijana Tošev
+
+Tijana Tošev 1101/2019
+Vladana Đorđević 1092/2019
