@@ -4,7 +4,7 @@ Sistem preporuka je sistem koji preporučuje proizvode korisniku za koje smatra 
 
 U ovom projektu je implementiran algoritam CFCM (Collaborative Filtering Covariance Matrix) kojim se poboljšava kvalitet preporuka.
 
-Jupyter radna sveska **MovieLens 100K - Primena algoritma** predstavlja implementiran algoritam, metrike i poređenje sa već dostupnim algoritmima koje pruža biblioteka Surprise. Sve to je primenjeno na već dostupnoj podeli na trening i test skup koju pruža MovieLens 100K skup podataka. S obzirom na to da skup nudi 5 podela na trening i test skup, a u radnoj svesci smo upotrebili samo jednu podelu, sastavljena je još jedna radna sveska **MovieLens 100K - Primena algoritma na skupu 2** gde je ceo postupak isti, samo su trening i test skup drugačiji, pa je svrha te sveske validacija. 
+Jupyter radna sveska **MovieLens 100K - Primena algoritma** predstavlja implementiran algoritam, metrike i poređenje sa već dostupnim algoritmima koje pruža biblioteka Surprise. Sve to je primenjeno na već dostupnoj podeli na trening i test skup koju pruža MovieLens 100K skup podataka. S obzirom na to da skup nudi 5 podela na trening i test skup, a u radnoj svesci smo upotrebili samo jednu podelu, sastavljene su još dve radne sveske **MovieLens 100K - Primena algoritma na skupu 2** i **MovieLens 100K - Primena algoritma na skupu 5** gde je ceo postupak isti, samo su trening i test skup drugačiji, pa je svrha tih svezaka validacija. 
 
 Tijana Tošev 1101/2019  
 Vladana Đorđević 1092/2019  
